@@ -32,6 +32,9 @@
 <a href="https://expressjs.com/">
   <img align="left" alt="Express" width="22px" src="https://simpleicons.org/icons/express.svg" />
 </a>
+<a href="https://stackoverflow.com/users/11483682/megargayu">
+  <img align="left" alt="StackOverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />
+</a>
 
 <br><br>
 
