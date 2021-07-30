@@ -1,46 +1,34 @@
-## Hi! I'm megargayu!
-<a href="https://www.python.org/">
-  <img align="left" alt="Python" width="22px" src="https://simpleicons.org/icons/python.svg" />
-</a>
-<a href="https://www.javascript.com/">
-  <img align="left" alt="Javascript" width="22px" src="https://simpleicons.org/icons/javascript.svg" />
-</a>
-<a href="https://nodejs.org/en/">
-  <img align="left" alt="NodeJS" width="22px" src="https://simpleicons.org/icons/node-dot-js.svg" />
-</a>
-<a href="https://www.java.com/en/">
-  <img align="left" alt="Java" width="22px" src="https://simpleicons.org/icons/java.svg" />
-</a>
-<a href="https://gradle.org/">
-  <img align="left" alt="Gradle" width="22px" src="https://simpleicons.org/icons/gradle.svg" />
-</a>
-<a href="https://maven.apache.org/">
-  <img align="left" alt="Maven" width="22px" src="https://simpleicons.org/icons/apachemaven.svg" />
-</a>
-<a href="https://docs.microsoft.com/en-us/dotnet/">
-  <img align="left" alt="C#" width="22px" src="https://simpleicons.org/icons/csharp.svg" />
-</a>
-<a href="https://unity.com/">
-  <img align="left" alt="Unity" width="22px" src="https://simpleicons.org/icons/unity.svg" />
-</a>
-<a href="https://mirror-networking.com/">
-  <img align="left" alt="Mirror Networking" width="22px" src="https://raw.githubusercontent.com/vis2k/Mirror/master/Assets/Mirror/Icon/MirrorIcon.png" />
-</a>
-<a href="https://reactjs.org/">
-  <img align="left" alt="React" width="22px" src="https://simpleicons.org/icons/react.svg" />
-</a>
-<a href="https://expressjs.com/">
-  <img align="left" alt="Express" width="22px" src="https://simpleicons.org/icons/express.svg" />
-</a>
-<a href="https://stackoverflow.com/users/11483682/megargayu">
-  <img align="left" alt="StackOverflow" width="22px" src="https://simpleicons.org/icons/stackoverflow.svg" />
-</a>
+# 👋 Hi, I'm megargayu!
 
-<br><br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+[![USACO Silver](https://img.shields.io/badge/USACO-Silver-blue?style=for-the-badge)](http://usaco.org/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=megargayu.visitor-badge)
-[![GitHub Ayush](https://img.shields.io/github/followers/megargayu?label=follow&style=social)](https://github.com/megargayu)
-
-<br>
-
-Just a random teenager posting his stuff on GitHub!
+<div>
+  <div style="float: left;">
+    Just a random teenager posting his stuff on GitHub! 
+    <br><br>
+    Some of my repositories:
+    <ul>
+      <li>
+        <a href="https://github.com/megargayu/Tetris">Tetris</a> - created with Python and Pygame
+      </li>
+      <li>
+        <a href="https://github.com/megargayu/USACO-Training">USACO-Training</a> - My USACO Training Repository
+      </li>
+      <li>
+        <a href="https://github.com/megargayu/SimpleWarps">SimpleWarps</a> - A Minecraft Spigot warps plugin
+      </li>
+    </ul>
+  </div>
+  <div style="float: right;">
+    <a href="https://github.com/megargayu">
+      <img src="https://github-readme-stats.vercel.app/api?username=megargayu" alt="megargayu's GitHub stats">
+    </a>
+  </div>
+</div>
