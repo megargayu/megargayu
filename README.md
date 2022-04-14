@@ -19,5 +19,5 @@ Some of my repositories:
 
 - [Countdown](https://github.com/megargayu/Countdown) - A countdown app made in React
 - [Tetris](https://github.com/megargayu/Tetris) - created with Python and Pygame
-- [USACO-Training](https://github.com/megargayu/USACO-Training) - My USACO Training Repository
+- [USACO-Solutions](https://github.com/megargayu/USACO-Solutions) - My USACO (CP) Repository
 - [SimpleWarps](https://github.com/megargayu/SimpleWarps) - A Minecraft Spigot warps plugin
