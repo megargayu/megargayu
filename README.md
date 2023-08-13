@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/USACO-Silver-blue?style=for-the-badge" alt="USACO Silver">
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=megargayu" alt="megargayu's GitHub stats" >
-
 Just a random teenager posting his stuff on GitHub!
 
 Some of my repositories:
